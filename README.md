@@ -12,7 +12,7 @@ This course emphasises on Python as a primary tool in order to work with various
   - Importing and exporting data in Python
 
 
-- [Data wrangling](https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/2-%20Data%20Wrangling.ipynb](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T2%20-%20Data%20Wrangling(Jupyterlite).ipynb)
+- [Data wrangling](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T2%20-%20Data%20Wrangling(Jupyterlite).ipynb)
 
   - Identifying and handling missing values
   - Data formatting
