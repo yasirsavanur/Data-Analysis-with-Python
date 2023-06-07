@@ -30,7 +30,7 @@ To illustrate each stage of the data analysis processes, the datasets included i
 
 - Iteration and refinement: The data analysis process is often iterative. Refining models, revisiting data preprocessing steps, and incorporating feedback to enhance the analysis and address any additional questions or concerns related to the automobile dataset.
 
-By following these steps, the analysis of any dataset within this repository, aims to extract valuable insights and provide a comprehensive understanding of the data.
+By following these steps, the analysis of any dataset within this repository, would help extract valuable insights and provide a comprehensive understanding of the data.
 
 
 ## Skills 
