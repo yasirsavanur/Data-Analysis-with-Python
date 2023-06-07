@@ -6,13 +6,13 @@ This course emphasises on Python as a primary tool in order to work with various
 
 
 ## Key Topics 
-- [Importing datasets](https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/1-%20Importing%20Datasets.ipynb)
+- [Importing datasets](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T1%20-%20Importing%20Datasets.ipynb)
 
   - Understanding the data
   - Importing and exporting data in Python
 
 
-- [Data wrangling](https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/2-%20Data%20Wrangling.ipynb)
+- [Data wrangling]([https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/2-%20Data%20Wrangling.ipynb](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T2%20-%20Data%20Wrangling(Jupyterlite).ipynb))
 
   - Identifying and handling missing values
   - Data formatting
@@ -20,14 +20,14 @@ This course emphasises on Python as a primary tool in order to work with various
   - Binning
   - Indicator variables
   
-- [Exploratory Data Analysis]()
+- [Exploratory Data Analysis](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T3%20-%20Exploratory%20Data%20Analysis%20(Jupyterlite).ipynb)
 
   - Summarizing main characteristics of the data
   - Gaining better understanding of the data set
   - Uncovering relationships between the variables
   - Extracting important variables
   
-- [Model Development]()
+- [Model Development](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T4%20-%20Model-Development%20(Jupyterlite).ipynb)
 
   - Simple and Multiple Linear Regression
   - Model Evaluation Using Visualization
@@ -35,14 +35,14 @@ This course emphasises on Python as a primary tool in order to work with various
   - R-squared and MSE for In-Sample Evaluation
   - Prediction and Decision Making
   
-- [Model Evaluation and Refinement]()
+- [Model Evaluation and Refinement](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T5%20-%20Model%20Evaluation%20and%20Refinement%20(Jupyterlite).ipynb)
 
   - Over-fitting, under-fitting and model selection
   - Ridge regression
   - GridSearch
   - Model refinement
 
-- [EDA - Dataprep]()
+- [EDA - Dataprep](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T6%20-%20Auto%20EDA%20-%20Dataprep.ipynb)
 
   - DataPrep is an open-source library available for python that lets you prepare your data using a single library with only a few lines of code. 
   - DataPrep can be used to address multiple data-related problems, and the library provides numerous features through which every problem can be solved and taken care of.
