@@ -2,10 +2,13 @@
 
 
 ## Summary 
-This course emphasises on Python as a primary tool in order to work with various types of data. Some of the key concepts included in the course are - preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, predicting future trends from data, and more. It concludes with a [final assignment](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Prediction%20of%20House%20Sales/House%20Sales%20in%20King%20County.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course emphasizes Python as the primary tool for working with various types of data. It covers key concepts such as preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, and predicting future trends from data. The course concludes with a [final assignment](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Prediction%20of%20House%20Sales/House%20Sales%20in%20King%20County.ipynb) that involves predicting the market prices of houses based on a detailed dataset. Each notebook in this course is incredibly detailed and collectively showcases the entire process of predictive analysis. Certain topics, like data wrangling, have additional associated notebooks to address the breadth of content covered in this course. 
 
 
 ## Key Topics 
+
+A 1985 Automobile Dataset was used to cover all the topics below in order to analyse and obtain different results for each concept. However, these concepts hold true for all the other projects included in this course, which have been implemented accordingly.
+
 - [Importing datasets](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T1%20-%20Importing%20Datasets.ipynb)
 
   - Understanding the data
@@ -44,8 +47,8 @@ This course emphasises on Python as a primary tool in order to work with various
 
 - [EDA - Dataprep](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T6%20-%20Auto%20EDA%20-%20Dataprep.ipynb)
 
-  - DataPrep is an open-source library available for python that lets you prepare your data using a single library with only a few lines of code. 
-  - DataPrep can be used to address multiple data-related problems, and the library provides numerous features through which every problem can be solved and taken care of.
+  - Exploring DataPrep for Data Preparation and EDA
+  - Automating EDA and generating exhaustive DataPrep report
 
 - [ETL - Data Engineering]()
 
