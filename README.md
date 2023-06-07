@@ -2,7 +2,7 @@
 
 
 ## Summary 
-This course emphasises on Python as a primary tool in order to work with various types of data. Some of the key concepts included in the course are - preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, predicting future trends from data, and more. It concludes with a [final assignment](https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/Project/House%20Sales%20in%20King%20County.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course emphasises on Python as a primary tool in order to work with various types of data. Some of the key concepts included in the course are - preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, predicting future trends from data, and more. It concludes with a [final assignment](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Prediction%20of%20House%20Sales/House%20Sales%20in%20King%20County.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 
 ## Key Topics 
@@ -12,7 +12,7 @@ This course emphasises on Python as a primary tool in order to work with various
   - Importing and exporting data in Python
 
 
-- [Data wrangling]([https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/2-%20Data%20Wrangling.ipynb](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T2%20-%20Data%20Wrangling(Jupyterlite).ipynb))
+- [Data wrangling](https://github.com/yasirsavanur/Capstone-Projects/blob/main/Data%20Analysis%20with%20Python/2-%20Data%20Wrangling.ipynb](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Automobile%20Dataset/T2%20-%20Data%20Wrangling(Jupyterlite).ipynb)
 
   - Identifying and handling missing values
   - Data formatting
