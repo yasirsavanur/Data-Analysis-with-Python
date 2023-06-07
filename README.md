@@ -2,7 +2,12 @@
 
 
 ## Summary 
-This course emphasizes Python as the primary tool for working with various types of data. It covers key concepts such as preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, and predicting future trends from data. The course concludes with a [final assignment](https://github.com/yasirsavanur/Data-Analysis-with-Python/blob/main/Prediction%20of%20House%20Sales/House%20Sales%20in%20King%20County.ipynb) that involves predicting the market prices of houses based on a detailed dataset. Each notebook in this course is incredibly detailed and collectively showcases the entire process of predictive analysis. Certain topics, like data wrangling, have additional associated notebooks to address the breadth of content covered in this course. 
+This course emphasizes Python as the primary tool for working with various types of data. It covers key concepts such as preparing data for analysis, performing simple statistical analysis, creating meaningful data visualizations, and predicting future trends from data. The course essentially includes projects where one uses Python to:
+- Predict and analyse the market prices of houses based on a detailed dataset
+- Analyse a certain community diabetes condition under the pov of a Dietician
+- Analyse individual feature, model patterns of Automobiles for visualisation
+
+Each notebook in this course is incredibly detailed and collectively showcases the entire process of predictive analysis. Certain topics, like data wrangling, have additional associated notebooks to address the breadth of content covered in this course. 
 
 
 ## Key Topics 
