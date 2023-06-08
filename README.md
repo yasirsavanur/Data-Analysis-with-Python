@@ -17,7 +17,7 @@ To illustrate each stage of the data analysis processes, the datasets included i
 
 - Define objectives: Clearly defining the problem statements and objectives of the data analysis project and determining the desired insights to be derived from the dataset
 
-- Data collection: Gathering relevant data from various datasets in order to ensure data quality by addressing issues like missing values, outliers, and inconsistencies as well as working with different file formats (AKA ETL).
+- Data collection: Gathering relevant data from various datasets, including web scraping techniques, and ensuring data quality by addressing issues such as missing values, outliers, and inconsistencies. Additionally, handling different file formats (ETL) is part of the process.
 
 - Data Wrangling (preprocessing): Cleaning and preparing the data for analysis with the aid of certain Python modules such as Pandas & NumPy. Tasks include handling duplicates, addressing missing data, standardizing formats, and transforming variables.
 
@@ -60,6 +60,8 @@ The following Python libraries were used throughout the certification: <br>
 - seaborn
 - plotly
 - Folium
+- yfinance
+- BeautifulSoup
 - Scikit Learn <br>
 </p>
 
