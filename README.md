@@ -6,6 +6,7 @@ This course emphasizes Python as the primary tool for working with various types
 - Predict and analyse the market prices of houses based on a detailed dataset
 - Analyse a certain community diabetes condition under the pov of a Dietician
 - Analyse individual feature, model patterns of Automobiles for visualisation
+- Analyse stock prices to predict the performance of companies using an interactive dashboard
 
 Each notebook in this course is incredibly detailed and collectively showcases the entire process of predictive analysis. Certain topics, like data wrangling, have additional associated notebooks to address the breadth of content covered in this course. 
 
@@ -65,7 +66,7 @@ The following Python libraries were used throughout the certification: <br>
 
 ## Certificates
 
-To verify the certificates, click the images to follow the links.
+To verify the certificates, click on the images to be redirected to the corresponding links.
 
  <p align="middle">
   <a href="https://www.coursera.org/account/accomplishments/verify/SE4LC5G54KJH"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SE4LC5G54KJH/CERTIFICATE_LANDING_PAGE~SE4LC5G54KJH.jpeg" height="430"></a>
