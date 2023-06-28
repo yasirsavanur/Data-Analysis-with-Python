@@ -1,9 +1,13 @@
-# House Sales in King County, USA
+# Prediction of House Sales in King County, USA
 
-## The aim of this project is to predict the House Sales in King County, USA and perform Data Analysis using Python in order to provide insights into the housing market in King County (Seattle included), and to help people make informed decisions about buying and selling houses.
+## Overview
 
-The project intends to understand the factors that influence the prices of housing in King County and Seattle - Washington, USA and to use this understanding to predict the prices of houses in the future. The [dashboard/visualisation](https://public.tableau.com/app/profile/yasir.savanur/viz/HouseSalesKingCounty/KingCountyHouseSales) used in the analysis serves as a guide and provides in-depth insight into the housing market of King County and Seattle where one could use it to make an informed decision.
+The aim of this project is to predict the House Sales in King County, USA and perform Data Analysis using Python in order to provide insights into the housing market in King County (Seattle included), and to help people make informed decisions about buying and selling houses. It intends to understand the factors that influence the prices of housing in King County and Seattle - Washington, USA and to use this understanding to predict the prices of houses in the future. 
 
+The analysis is conveyed through Regression models and [dashboards/visualisation](https://public.tableau.com/app/profile/yasir.savanur/viz/HouseSalesKingCounty/KingCountyHouseSales) which in turn serves as a guide and provides in-depth insight into the housing market of King County where one could use it to make an informed decision.
+
+
+## About the dataset
 
 The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
