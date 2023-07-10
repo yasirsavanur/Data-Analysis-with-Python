@@ -25,7 +25,7 @@ The Pima population has been under study by the National Institute of Diabetes a
 The primary objective of this project is to determine (or diagnostically predict) whether or not a person from Pima community has diabetes. However from a broader perspective, it becomes imperative that we also take the following into consideration:
 
 - Analyse the dataset under the point of view of a Dietitian
-- Apply machine learning techniques resulting in bridging the gap between datasets and human knowledge.
+- Apply data analysis techniques resulting in bridging the gap between datasets and human knowledge.
 
 Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years of age of Pima Indian heritage. In particular, all patients here are females at least 21 years of age of Pima Indian heritage.
 
