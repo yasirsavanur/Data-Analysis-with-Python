@@ -66,21 +66,4 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 
-## Certificates
-
-To verify the certificates, click on the images to be redirected to the corresponding links.
-
- <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/SE4LC5G54KJH"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SE4LC5G54KJH/CERTIFICATE_LANDING_PAGE~SE4LC5G54KJH.jpeg" height="430"></a>
-</p>
-
- <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/MCZ9PL5EFCMX"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MCZ9PL5EFCMX/CERTIFICATE_LANDING_PAGE~MCZ9PL5EFCMX.jpeg" height="430"></a>
-</p>
-
- <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/C6G3SQNEESGN"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C6G3SQNEESGN/CERTIFICATE_LANDING_PAGE~C6G3SQNEESGN.jpeg" height="430"></a>
-</p>
-
-
 
