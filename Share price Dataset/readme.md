@@ -31,15 +31,17 @@ It’s not a trading model or a price predictor. It’s an end‑to‑end data s
   - Cleans and merges the two sources.
   - Plots price and revenue trends for each company.
 
-- [`Stock-Price-and-Profit-Analysis-main/src/Stock-Price-and-Profit-Analysis.ipynb`](Stock-Price-and-Profit-Analysis-main/src/Stock-Price-and-Profit-Analysis.ipynb)  
+- [`Stock-Price-and-Profit-Analysis-main/src/Stock-Price-and-Profit-Analysis.ipynb`](Stock-Price-and-Profit-Analysis.ipynb)  
   Notebook that:
   - Focuses on **Tesla vs GameStop** as a direct comparison.
   - Recreates and refines stock‑price and revenue charts.
   - Uses the outputs to generate static images for sharing.
 
-- Example result images:  
-  - [`Stock-Price-and-Profit-Analysis-main/assets/result_tesla.png`](Stock-Price-and-Profit-Analysis-main/assets/result_tesla.png)  
-  - [`Stock-Price-and-Profit-Analysis-main/assets/result_gamestop.png`](Stock-Price-and-Profit-Analysis-main/assets/result_gamestop.png)
+---
+
+## Results  
+  - [`Stock-Price-and-Profit-Analysis-main/assets/result_tesla.png`](result_tesla.png)  
+  - [`Stock-Price-and-Profit-Analysis-main/assets/result_gamestop.png`](result_gamestop.png)
 
 ---
 
@@ -53,7 +55,7 @@ It’s not a trading model or a price predictor. It’s an end‑to‑end data s
 
 ---
 
-## Why this is “end‑to‑end”
+## Methodology
 
 Even though the focus is “just” stock charts, it still walks through the full pipeline:
 
