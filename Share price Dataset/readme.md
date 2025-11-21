@@ -40,8 +40,8 @@ It’s not a trading model or a price predictor. It’s an end‑to‑end data s
 ---
 
 ## Results  
-  - [`Stock-Price-and-Profit-Analysis-main/assets/result_tesla.png`](result_tesla.png)  
-  - [`Stock-Price-and-Profit-Analysis-main/assets/result_gamestop.png`](result_gamestop.png)
+  - [`Stock-Price-and-Profit-Analysis-main/result_tesla.png`](result_tesla.png)  
+  - [`Stock-Price-and-Profit-Analysis-main/result_gamestop.png`](result_gamestop.png)
 
 ---
 
