@@ -24,14 +24,14 @@ It’s not a trading model or a price predictor. It’s an end‑to‑end data s
 
 ## Files in this folder
 
-- [`Extracting and Visualizing Stock Data.ipynb`](Extracting%20and%20Visualizing%20Stock%20Data.ipynb)  
+- [`Extracting and Visualizing Stock Data`](Extracting%20and%20Visualizing%20Stock%20Data.ipynb)  
   Notebook that:
   - Uses `yfinance` to download historical stock prices.
   - Uses web scraping to fetch revenue data.
   - Cleans and merges the two sources.
   - Plots price and revenue trends for each company.
 
-- [`Stock-Price-and-Profit-Analysis-main/src/Stock-Price-and-Profit-Analysis.ipynb`](Stock-Price-and-Profit-Analysis.ipynb)  
+- [`Stock-Price-and-Profit-Analysis-main/src/Stock-Price-and-Profit-Analysis`](Stock-Price-and-Profit-Analysis.ipynb)  
   Notebook that:
   - Focuses on **Tesla vs GameStop** as a direct comparison.
   - Recreates and refines stock‑price and revenue charts.
@@ -40,8 +40,8 @@ It’s not a trading model or a price predictor. It’s an end‑to‑end data s
 ---
 
 ## Results  
-  - [`Stock-Price-and-Profit-Analysis-main/result_tesla.png`](result_tesla.png)  
-  - [`Stock-Price-and-Profit-Analysis-main/result_gamestop.png`](result_gamestop.png)
+  - ![alt text](./result_tesla.png)  
+  - ![alt text](./result_gamestop.png)
 
 ---
 
